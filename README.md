@@ -1,4 +1,4 @@
-# dylanreimer.com
+# paulreimer.com
 
-My personal website. Theme: Volos
+My personal website. Theme: 
 
