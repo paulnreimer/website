@@ -10,6 +10,7 @@
   }
 
   &__mark {
+    // display: none;
     display: inline-flex;
     align-items: center;
     margin-right: 5px;
@@ -22,7 +23,8 @@
   }
 
   &__cursor {
-    display: inline-block;
+    display: none;
+    // display: inline-block;
     width: 10px;
     height: 1rem;
     background: #fe5186;
