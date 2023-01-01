@@ -1,4 +1,4 @@
-baseurl = "https://dylanreimer.github.io"
+baseurl = "https://me.dyr.sh/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
