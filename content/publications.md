@@ -8,6 +8,9 @@ Please contact me for access to papers.
 **Head start preschool educators' conceptions of mathematics teaching and learning.** [↗](/publications/Head_Start_educators_conceptions_of_early.pdf)   
 *Journal of Early Childhood Teacher Education* 43:1, 69-86. DOI: 10.1080/10901027.2020.1818649
 
+**Mathematical play: Across ages, context, and content.** [↗](/publications/PMENA44_2022_mathematical_play.pdf)   
+Plaxco, D., Reimer, P. N., Williams-Pierce, C., Ellis, A., Molitoris-Miller, S., Simpson, A., Zandieh, M., Mauntel, M., Dogan, M. F., (2022). In Lischka, A. E., Dyer, E. B., Jones, R. S., Lovett, J. N., Strayer, J., & Drown, S. (Eds.). *Proceedings of the forty-fourth annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education*. Middle Tennessee State University.
+
 ### 2021
 
 **Serious work through play: Teaching and learning spatial reasoning in early childhood.** [↗](/publications/proquest.dissertation.paulreimer.pdf)     
