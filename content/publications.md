@@ -1,7 +1,7 @@
 ---
 title: "SELECTED PUBLICATIONS"
 ---
-Please contact me for access to papers.
+[↗]() indicates copy of paper is available.
 
 ### 2022
 

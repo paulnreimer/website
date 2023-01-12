@@ -1,20 +1,25 @@
 +++
-title = "Hello Friend"
-date = "1986-09-17"
-cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+title = "Embodied Design"
+date = "2019-08-31"
+cover = "img/embdes.png"
+description = "Embodied design for learning presents several unique challenges to the ways we conceptualize thinking and learning."
 +++
 
-> "Hello, friend?" That's lame.
-> Maybe I should give you a name...
-> But that's a slippery slope.
-> You're only in my head.
-> We have to remember that...
-> Shit.
-> It's actually happened.
-> I'm talking to an imaginary person.
+> Embodied design for learning presents
+several unique challenges to the
+ways we conceptualize thinking and
+learning. For science teachers, embodied
+design highlights the role of physical
+movement in how our students interact
+with important scientific ideas and
+processes. Embodied design presents
+opportunities for us to rethink our
+science teaching practices. In many
+ways, it offers us a pedagogy that
+recasts learning as a more complete,
+complex and human activity.
 >
-> **— Mr. Robot S01E01**
+> **[Read full article](https://reimer.fyi/publications/Learning_science_with_the_body_in_mind.pdf)**
 
 
 
