@@ -3,6 +3,10 @@ title: "SELECTED PUBLICATIONS"
 ---
 [↗]() indicates copy of paper is available.
 
+### 2023
+
+
+
 ### 2022
 
 **Head start preschool educators' conceptions of mathematics teaching and learning.** [↗](/publications/Head_Start_educators_conceptions_of_early.pdf)   
