@@ -5,6 +5,14 @@ title: "SELECTED PUBLICATIONS"
 
 ### 2023
 
+**Computational Thinking Practices at Play in an Early Childhood Microworld.**  
+Reimer, P.N., Smith, H. (paper to be presented) ISLS, 2023. Montréal, QC: International Society of the Learning Sciences.
+
+**“We Actually Cared Because We Needed to Build It”: Broadening the Educational Spaces of Constructionist Design.**  
+Rosenbaum, L.F., Reimer, P., Palatnik, A., Abrahamson, D.  In *Proceedings of Constructionism 2023* (under review), New York, NY.
+
+**Building mathematical spaces through multi-faceted, body-scale geometry.**  
+Leah F Rosenbaum, Paul Reimer, Alik Palatnik, and Dor Abrahamson. *Educational Designer*, (under review).
 
 
 ### 2022
