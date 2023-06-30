@@ -71,6 +71,9 @@ Reimer, P. N. (2017). In E. Galindo & J. Newton, (Eds.), *Proceedings of the 39t
 
 ## SELECTED PRESENTATIONS
 
+**Interactive exhibits: Emerging opportunities for intergenerational STEAM play.**  [↗]  
+Reimer, P. N., Moreno, C., Pleaner, E. (2023, June). Paper presented at the 22nd annual ACM Interaction Design and Children Conference, Northwestern University, Chicago, IL.
+
 **Remote engagement in early mathematics professional development: Using tangible artifacts to mediate participation.**  [↗](/publications/Remote_engagement_in_early_mathematics.pdf)  
 Reimer, P. N., Rizo, A., Pauls, S. (2021, June). Poster presented at the 42nd Meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, Mexico.
 
@@ -80,7 +83,7 @@ Spina, A. D., Macias, M., Rosenbaum, L., Gribble, J., Caldwell, B. & Reimer, P.N
 **Fostering culturally-responsive, play-based learning as part of California's Statewide Early Math Initiative.**  
 Caldwell, B., Gribble, J., Macias, M., Reimer, P. N., Rosenbaum, L. F., & Spina, A. (2019, November). Promising Math 2019: Early Math Learning in Family and Community Contexts, Chicago, IL. 
 
-**Investigating the role of physical interactions in developing meaning in children’s mathematical play.** [↗](/publications/Poster_physinteractionschildrenmathplay.Reimer.pdf) 
+**Investigating the role of physical interactions in developing meaning in children’s mathematical play.** [↗](/publications/Poster_physinteractionschildrenmathplay.Reimer.pdf)   
 Reimer, P. N. (2018, May). Poster presented at the NSF EMIC Conference Workshop, Madison, WI. 
 
 **Disrupting dichotomies: Opportunities in centered conceptions of early childhood mathematics learning and teaching.** [↗](https://www.youtube.com/watch?v=QyWAGexs8Mkwww.youtube.com/watch?v=QyWAGexs8Mk)    
