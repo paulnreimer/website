@@ -9,7 +9,7 @@ Moreno, C., & Reimer, P. (2023). DIY board games with craft and code. In C. Tofe
 
 Rosenbaum, L., Reimer, P., Palatnik, A., & Abrahamson, D. (2023). “We actually cared because we needed to build It:” Broadening the educational spaces of constructionist design. In C. Tofel-Grehl, D. Fields, J. Walker, & T. Fuhrmann (Eds. of Short Papers), *Proceedings of the annual meeting of Constructionism / FabLearn 2023*.
 
-Reimer, P.N., & Smith, H. (2023). Computational thinking practices at play in an early childhood microworld. ISLS, 2023. Montréal, QC: International Society of the Learning Sciences.
+Reimer, P.N., & Smith, H. (2023). Computational thinking practices at play in an early childhood microworld. *General proceedings of the 3rd annual meeting of the International Society of the Learning Sciences 2023*. Montréal, QC: International Society of the Learning Sciences.
  
 Rosenbaum, L., Reimer, P., Palatnik, A., & Abrahamson, D. (under review) Building mathematical spaces through multi-faceted, body-scale geometry. *Educational Designer*.
 
