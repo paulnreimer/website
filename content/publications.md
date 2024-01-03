@@ -5,7 +5,7 @@ title: "SELECTED PUBLICATIONS"
 
 ### 2024
 
-Rosenbaum, L., Reimer, P., Palatnik, A., & Abrahamson, D. (under review) Building mathematical spaces through multi-faceted, body-scale geometry. *Educational Designer*.
+Rosenbaum, L., Reimer, P., Palatnik, A., & Abrahamson, D. (accepted) Building mathematical spaces through multi-faceted, body-scale geometry. *Educational Designer*.
 
 ### 2023
 
