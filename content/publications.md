@@ -5,6 +5,8 @@ title: "SELECTED PUBLICATIONS"
 
 ### 2024
 
+Leah Rosenbaum, Paul Reimer, Alik Palatnik, and Dor Abrahamson. 2024. Beyond Computers: Broadening the Educational Spaces of Constructionist Design. In Proceedings of FabLearn / Constructionism 2023: Full and Short Research Papers (FLC '23). Association for Computing Machinery, New York, NY, USA, Article 11, 1–3. https://doi.org/10.1145/3615430.3615431 
+
 Rosenbaum, L. F., Reimer, P., Palatnik, A., Abrahamson, D. (2024). Building Mathematical Spaces Through Multi-Faceted, Body-Scale Geometry. *Educational Designer*, 4(16). ISSN 1759-1325 https://preview.educationaldesigner.org/ed/volume4/issue16/article66/
 
 ### 2023
